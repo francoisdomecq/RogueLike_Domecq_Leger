@@ -1,0 +1,14 @@
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\bin\Debug\Jeu.exe.config
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\obj\Debug\Jeu.csprojResolveAssemblyReference.cache
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\bin\Debug\Jeu.exe
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\bin\Debug\Jeu.pdb
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\bin\Debug\OpenTK.dll
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\bin\Debug\RLNET.dll
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\bin\Debug\RogueSharp.dll
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\bin\Debug\RogueSharp.PCL.dll
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\bin\Debug\OpenTK.xml
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\obj\Debug\Jeu.exe
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\obj\Debug\Jeu.pdb
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\bin\Debug\Jeu.exe.config
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\obj\Debug\Jeu.exe
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\obj\Debug\Jeu.pdb
