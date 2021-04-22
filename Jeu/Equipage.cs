@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Jeu.Core;
 
 namespace Jeu
 {
-   public class Equipage
+   public class Equipage : Actor
         {
             private List<Personnages> _listePersonnages;
             private Ressources _tresorEquipage;
@@ -15,7 +16,17 @@ namespace Jeu
             private bool _estEnMer;
             private int _puissanceEquipage;
 
-            public Equipage(List<Personnages> listePersos, Ressources tresor, int x, int y)
+        public Equipage()
+        {
+            Awareness = 15;
+            Name = "Rogue";
+            Color = Colors.Player;
+            Symbol = (char)1;
+            X = 10;
+            Y = 10;
+        }
+
+        public Equipage(List<Personnages> listePersos, Ressources tresor, int x, int y)
             {
                 _listePersonnages = listePersos;
                 _tresorEquipage = tresor;

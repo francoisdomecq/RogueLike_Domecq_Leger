@@ -58,7 +58,6 @@ namespace Jeu
         public void PerdreVie(int nbPv)
         {
             this._pvPerso -= nbPv;
-            this._pvPerso -= nbPv;
         }
         public override string ToString()
         {

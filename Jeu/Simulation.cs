@@ -21,7 +21,7 @@ namespace Jeu
                 int _dgtsInfliges = p.Attaquer(); 
                 if(i<_listEquipage2.Count())
                 {
-                    _listEquipage2[i].PerdreVie(_dgtsInfliges)
+                    _listEquipage2[i].PerdreVie(_dgtsInfliges);
                 }
                 
             }

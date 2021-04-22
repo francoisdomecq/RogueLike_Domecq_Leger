@@ -12,3 +12,16 @@ C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike_Domecq_Leger\Jeu\obj
 C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\bin\Debug\Jeu.exe.config
 C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\obj\Debug\Jeu.exe
 C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\obj\Debug\Jeu.pdb
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\obj\Debug\Jeu.csprojResolveAssemblyReference.cache
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\bin\Debug\terminal16x16.png
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\bin\Debug\Jeu.exe
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\bin\Debug\Jeu.pdb
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\bin\Debug\OpenTK.dll
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\bin\Debug\RLNET.dll
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\bin\Debug\RogueSharp.dll
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\bin\Debug\OpenTK.xml
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\bin\Debug\pirates-des-caraibes-musique-complete.mp3
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\obj\Debug\Interop.WMPLib.dll
+C:\Users\fdome\OneDrive\Documents\ENSC 1A\ENSC S2\RogueLike\Jeu\obj\Debug\Jeu.csproj.ResolveComReference.cache
